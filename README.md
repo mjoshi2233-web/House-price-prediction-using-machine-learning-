@@ -5,12 +5,19 @@ This project was built as part of my Machine Learning learning journey and helpe
 Concepts Used
 
 ->Data Loading and Exploration
+
 ->Exploratory Data Analysis (EDA)
+
 ->Correlation Analysis and Heatmaps
+
 ->Feature and Target Selection
+
 ->Train-Test Split
+
 ->XGBoost Regressor
+
 ->Model Evaluation (R² Score, MAE)
+
 ->Visualization of Actual vs Predicted Values
 
 Results:-
